@@ -41,4 +41,5 @@ function Student(nombre, correo, promedio) {
   alert(studentOne.obtenerUsuario());
   
   //ejercicio2
-
+let edades = [15,45,50];
+edades.splice 
